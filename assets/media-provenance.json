@@ -1,0 +1,14 @@
+{
+  "image": {
+    "file": "education.png",
+    "tool": "image_gen built-in",
+    "description": "AI-generated 2x2 patient education image sheet: implant cross-section, dentist consultation, interdental cleaning, soft food and icepack. Warm ivory and teal. No blood. Conceptual illustration, not clinical imaging."
+  },
+  "voice": {
+    "provider": "Microsoft Edge TTS",
+    "voice": "zh-TW-HsiaoChenNeural",
+    "rate": "-8%",
+    "type": "synthetic narration"
+  },
+  "medical_review_date": "2026-10-19"
+}
